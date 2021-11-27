@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 f1 has changed
+
+this file is modified by f2
+
